@@ -1,0 +1,14 @@
+{
+  "cw_method": null,
+  "L_cw_m": null,
+  "u_L_cw_m": null,
+  "L_pulse_m": null,
+  "u_L_pulse_m": null,
+  "u_delay_us": null,
+  "fit_upto": null,
+  "excluded_modes": null,
+  "frequency_width_fraction": null,
+  "frequency_error_floor_kHz": null,
+  "linewidth_fractional_error": null,
+  "pulse_decay_fractional_error": null
+}
